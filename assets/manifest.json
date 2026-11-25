@@ -1,0 +1,69 @@
+{
+ "bodies": [
+  "body_male_heavy_pale.png",
+  "body_male_heavy_tan.png",
+  "body_male_heavy_dark.png",
+  "body_male_medium_pale.png",
+  "body_male_medium_tan.png",
+  "body_male_medium_dark.png",
+  "body_male_robe_pale.png",
+  "body_male_robe_tan.png",
+  "body_male_robe_dark.png",
+  "body_female_heavy_pale.png",
+  "body_female_heavy_tan.png",
+  "body_female_heavy_dark.png",
+  "body_female_medium_pale.png",
+  "body_female_medium_tan.png",
+  "body_female_medium_dark.png",
+  "body_female_robe_pale.png",
+  "body_female_robe_tan.png",
+  "body_female_robe_dark.png"
+ ],
+ "hairs": [
+  "hair_male_0_raven.png",
+  "hair_male_0_chestnut.png",
+  "hair_male_0_ash.png",
+  "hair_male_0_auburn.png",
+  "hair_male_1_raven.png",
+  "hair_male_1_chestnut.png",
+  "hair_male_1_ash.png",
+  "hair_male_1_auburn.png",
+  "hair_male_2_raven.png",
+  "hair_male_2_chestnut.png",
+  "hair_male_2_ash.png",
+  "hair_male_2_auburn.png",
+  "hair_female_0_raven.png",
+  "hair_female_0_chestnut.png",
+  "hair_female_0_ash.png",
+  "hair_female_0_auburn.png",
+  "hair_female_1_raven.png",
+  "hair_female_1_chestnut.png",
+  "hair_female_1_ash.png",
+  "hair_female_1_auburn.png",
+  "hair_female_2_raven.png",
+  "hair_female_2_chestnut.png",
+  "hair_female_2_ash.png",
+  "hair_female_2_auburn.png"
+ ],
+ "accents": [
+  "accent_heavy.png",
+  "accent_medium.png",
+  "accent_robe.png"
+ ],
+ "weapons": [
+  "weapon_sword.png",
+  "weapon_greatsword.png",
+  "weapon_dagger.png",
+  "weapon_mace.png",
+  "weapon_axe.png",
+  "weapon_staff.png",
+  "weapon_bow.png",
+  "weapon_holy.png",
+  "weapon_rusty.png"
+ ],
+ "shields": [
+  "shield_kite.png",
+  "shield_round.png",
+  "shield_buckler.png"
+ ]
+}
